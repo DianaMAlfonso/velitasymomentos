@@ -17,9 +17,9 @@
                 <p>+57 3242372551</p>
                 <p>velitasymomentos@gmail.com</p>
                 <div>
-                    <a href="https://www.facebook.com/share/19JVoKSwoN/" class="text-dark me-2"><i class="bi bi-facebook"></i></a>
-                    <a href="https://www.instagram.com/velitasymomentos?igsh=ZHF5YzJjNHRpZTA2" class="text-dark me-2"><i class="bi bi-instagram"></i></a>
-                    <a href="https://www.tiktok.com/@velitasymomentos?_t=ZS-8xhAPtLqH71&_r=1" class="text-dark"><i class="bi bi-tiktok"></i></a>
+                    <a href="https://www.facebook.com/share/19JVoKSwoN/" target="blank" class="text-dark me-2"><i class="bi bi-facebook"></i></a>
+                    <a href="https://www.instagram.com/velitasymomentos?igsh=ZHF5YzJjNHRpZTA2" target="blank" class="text-dark me-2"><i class="bi bi-instagram"></i></a>
+                    <a href="https://www.tiktok.com/@velitasymomentos?_t=ZS-8xhAPtLqH71&_r=1" target="blank" class="text-dark"><i class="bi bi-tiktok"></i></a>
                 </div>
             </div>
             <div class="col-md-4 mb-4 d-flex flex-column align-items-center text-center">
