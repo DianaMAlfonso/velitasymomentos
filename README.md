@@ -47,6 +47,24 @@ velitasymomentos/
 
 ---
 
+## 📝 Use Case Diagram
+
+This is the use case diagram for the **Velitas y Momentos** project, showing the main interactions with the system.
+
+![Use Case Diagram](docs/case.png)
+
+
+---
+## 📝 UML Class Diagram
+
+This is the UML class diagram for the **Velitas y Momentos** project, illustrating the classes with their attributes and methods.
+
+![Class Diagram](docs/class.png)
+
+
+
+---
+
 ## 🚀 Local Installation
 
 1. Clone this repository
@@ -91,7 +109,7 @@ velitasymomentos/
 ## ⚙️ Admin Features
 
 - Dashboard with user list
-- Full CRUD for products and categories
+- Full CRUD for products, users and categories
 - View and export orders to Excel
 
 ---
@@ -119,7 +137,7 @@ From the admin panel, export all orders in a `.xlsx` file using PhpSpreadsheet.
 
 ## 👩‍💻 Author & Credits
 
-Project developed by **Diana** as the final project for her fullstack web development course, integrating PHP, MySQL, Bootstrap, PHPMailer, and PhpSpreadsheet.
+Project developed by **Diana Alfonso** as the final project for her fullstack web development course, integrating PHP, MySQL, Bootstrap, PHPMailer, and PhpSpreadsheet.
 
 ---
 

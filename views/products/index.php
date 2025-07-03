@@ -49,7 +49,7 @@
                                 <?php else: ?>
                                     <!-- Visitor must login first -->
                                     <a href="index.php?action=login" class="btn btn-sm btn-outline-secondary w-100">
-                                        Inicia sesión para comprar
+                                        Comprar
                                     </a>
                                 <?php endif; ?>
                             </div>
