@@ -8,8 +8,8 @@
         <input type="text" name="name" id="name" value="<?= htmlspecialchars($category['name']) ?>" class="form-control" required>
     </div>
 
-    <button type="submit" class="btn btn-outline-secondary">Actualizar</button>
-    <a href="index.php?controller=category&action=index" class="btn btn-outline-secondary">Cancel</a>
+    <button type="submit" class="btn btn-outline-secondary mb-4">Actualizar</button>
+    <a href="index.php?controller=category&action=index" class="btn btn-outline-secondary mb-4">Cancel</a>
 </form>
 
 <?php require_once __DIR__ . '/../partials/footer.php'; ?>
