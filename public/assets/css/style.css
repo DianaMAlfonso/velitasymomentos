@@ -1,0 +1,26 @@
+/* ==============================================
+   Velitas y Momentos - Minimal CSS overrides
+   Buttons only, using rose gold palette
+   Safe to use over Bootstrap
+============================================== */
+
+.btn-outline-secondary {
+    color: #DEA193;          /* rose gold text */
+    border-color: #DEA193;   /* rose gold border */
+    transition: all 0.3s ease;
+}
+
+.btn-outline-secondary:hover,
+.btn-outline-secondary:focus {
+    background-color: #DEA193; /* fill on hover */
+    color: #fff;
+    border-color: #DEA193;
+}
+
+/* Optional: give a slight grow & shadow on hover */
+.btn-outline-secondary:hover,
+.btn-outline-secondary:focus {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+

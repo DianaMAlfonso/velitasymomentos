@@ -1,0 +1,7 @@
+{
+    "require": {
+        "delight-im/auth": "^9.0",
+        "phpmailer/phpmailer": "^6.10",
+        "phpoffice/phpspreadsheet": "^4.4"
+    }
+}
